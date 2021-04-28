@@ -1,0 +1,14 @@
+#import <AudioToolbox/AudioSessionClientImpl.h>
+#import <AudioToolbox/AVHapticSequenceEntry.h>
+#import <AudioToolbox/AVHapticClient.h>
+#import <AudioToolbox/AudioSessionUtils.h>
+#import <AudioToolbox/MZSessionManager.h>
+#import <AudioToolbox/ATDefaultDeviceAggregate.h>
+#import <AudioToolbox/AudioSessionPropertyManager.h>
+#import <AudioToolbox/AVHapticEvent.h>
+#import <AudioToolbox/AVHapticPlayerParameterCurveControlPoint.h>
+#import <AudioToolbox/AVHapticPlayerParameterCurve.h>
+#import <AudioToolbox/AVHapticPlayerChannel.h>
+#import <AudioToolbox/AVHapticPlayer.h>
+#import <AudioToolbox/AVHapticSequence.h>
+#import <AudioToolbox/AVHapticParameterCurveValue.h>

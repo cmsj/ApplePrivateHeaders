@@ -1,0 +1,7 @@
+#import <AddressBookAutocomplete/ABAutocompleteLocalContactResultTransformBuilder.h>
+#import <AddressBookAutocomplete/ABAutocompleteServerSearchObservable.h>
+#import <AddressBookAutocomplete/ABAutocompleteContactPredicate.h>
+#import <AddressBookAutocomplete/CNAutocompleteContactPredicateFactory.h>
+#import <AddressBookAutocomplete/CNAutocompleteContactFetchPredicateFactory.h>
+#import <AddressBookAutocomplete/CNAutocompleteContactFilterPredicateFactory.h>
+#import <AddressBookAutocomplete/ABAutocompleteServerSearch.h>

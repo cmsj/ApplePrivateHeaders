@@ -1,0 +1,9 @@
+#import <IMServicePlugIn/IMServicePlugInMessage.h>
+#import <IMServicePlugIn/IMServicePlugInFileTransfer.h>
+#import <IMServicePlugIn/IMServicePlugInIncomingFileTransfer.h>
+#import <IMServicePlugIn/IMServicePlugInOutgoingFileTransfer.h>
+#import <IMServicePlugIn/IMServicePlugInFileTransferSession.h>
+#import <IMServicePlugIn/IMServicePlugInOutgoingFileTransferSession.h>
+#import <IMServicePlugIn/IMServicePlugInIncomingFileTransferSession.h>
+#import <IMServicePlugIn/IMFileTransferInputStream.h>
+#import <IMServicePlugIn/IMFileTransferOutputStream.h>

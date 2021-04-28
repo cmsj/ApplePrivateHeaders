@@ -1,0 +1,11 @@
+#import <SiriKitInvocation/SKIDirectInvocationContext.h>
+#import <SiriKitInvocation/SKIMusicInvocation.h>
+#import <SiriKitInvocation/SKIMessagesGatekeeperPayload.h>
+#import <SiriKitInvocation/SKIMapsInvocation.h>
+#import <SiriKitInvocation/SKIVoiceShortcutsInvocation.h>
+#import <SiriKitInvocation/SKIDirectInvocation.h>
+#import <SiriKitInvocation/SKIDirectInvocationPayload.h>
+#import <SiriKitInvocation/SKIMessagesInvocation.h>
+#import <SiriKitInvocation/SKIPhoneInvocation.h>
+#import <SiriKitInvocation/SKIMediaControlsInvocation.h>
+#import <SiriKitInvocation/SKIHomeAutomationInvocation.h>

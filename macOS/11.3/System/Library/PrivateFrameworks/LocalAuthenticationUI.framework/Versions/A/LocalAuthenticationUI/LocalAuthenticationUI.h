@@ -1,0 +1,14 @@
+#import <LocalAuthenticationUI/LAUICheckmarkLayer.h>
+#import <LocalAuthenticationUI/LAUIAuthenticationCore.h>
+#import <LocalAuthenticationUI/LAPKGlyphWrapper.h>
+#import <LocalAuthenticationUI/LAUIPlaceholderTextField.h>
+#import <LocalAuthenticationUI/LAUILockImage.h>
+#import <LocalAuthenticationUI/LAUIAuthenticationView.h>
+#import <LocalAuthenticationUI/LAUIUserPasswordViewController.h>
+#import <LocalAuthenticationUI/LAUIAuthenticationSheetWindow.h>
+#import <LocalAuthenticationUI/LAUIAuthenticationSheetController.h>
+#import <LocalAuthenticationUI/LAUIShakeAnimation.h>
+#import <LocalAuthenticationUI/LAUIAnimationDelegate.h>
+#import <LocalAuthenticationUI/LAUIPasswordField.h>
+#import <LocalAuthenticationUI/LAUIAuthenticationViewControllerUIDelegate.h>
+#import <LocalAuthenticationUI/LAUIAuthenticationViewController.h>

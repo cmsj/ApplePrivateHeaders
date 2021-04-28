@@ -1,0 +1,15 @@
+#import <OpenDirectory/NSODSession.h>
+#import <OpenDirectory/ODSession.h>
+#import <OpenDirectory/NSODNode.h>
+#import <OpenDirectory/ODNode.h>
+#import <OpenDirectory/NSODRecord.h>
+#import <OpenDirectory/ODRecord.h>
+#import <OpenDirectory/NSODQuery.h>
+#import <OpenDirectory/ODQuery.h>
+#import <OpenDirectory/NSODContext.h>
+#import <OpenDirectory/ODContext.h>
+#import <OpenDirectory/ODConfiguration.h>
+#import <OpenDirectory/ODModuleEntry.h>
+#import <OpenDirectory/ODMappings.h>
+#import <OpenDirectory/ODAttributeMap.h>
+#import <OpenDirectory/ODRecordMap.h>

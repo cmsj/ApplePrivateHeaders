@@ -1,0 +1,1 @@
+#import <TransparencyDetailsViewMac/ADUserTransparencySheet.h>

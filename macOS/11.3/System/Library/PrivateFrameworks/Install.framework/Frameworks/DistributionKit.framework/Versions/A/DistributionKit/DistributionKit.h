@@ -1,0 +1,14 @@
+#import <DistributionKit/PKPredicateRequirements.h>
+#import <DistributionKit/IFJS_Context.h>
+#import <DistributionKit/PKDistributionChoiceItem.h>
+#import <DistributionKit/PKDistributionEvaluator.h>
+#import <DistributionKit/_PKBasicHardwareRequirementsMatcher.h>
+#import <DistributionKit/PKBasicHardwareRequirements.h>
+#import <DistributionKit/PKDistributionValueNode.h>
+#import <DistributionKit/PKDistributionController.h>
+#import <DistributionKit/PKDistributionControllerCommonCheckRecoveryAttempter.h>
+#import <DistributionKit/PKDistributionChoiceTitleButtonCell.h>
+#import <DistributionKit/PKGraphicsHardwareRequirements.h>
+#import <DistributionKit/PKRequiredGLRenderer.h>
+#import <DistributionKit/PKRequiredCLDevice.h>
+#import <DistributionKit/PKRequiredMetalDevice.h>

@@ -1,0 +1,9 @@
+#import <PhotoLibrary/PHSettings.h>
+#import <PhotoLibrary/PHLIngestController.h>
+#import <PhotoLibrary/PHLIngestRequest.h>
+#import <PhotoLibrary/PHLMutableIngestRequest.h>
+#import <PhotoLibrary/PHLIngestAsset.h>
+#import <PhotoLibrary/PHLIngestAdjustment.h>
+#import <PhotoLibrary/PHRootSettings.h>
+#import <PhotoLibrary/PHImageManagerSettings.h>
+#import <PhotoLibrary/PHResourceDownloadSettings.h>

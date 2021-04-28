@@ -1,0 +1,15 @@
+#import <UIRecording/UIRAccessibilityElement.h>
+#import <UIRecording/UIRRecord.h>
+#import <UIRecording/UIRRemoteRecorder.h>
+#import <UIRecording/UIREvent.h>
+#import <UIRecording/UIRAccessibilityExtensions.h>
+#import <UIRecording/UIRMouseEvent.h>
+#import <UIRecording/UIRKeyEvent.h>
+#import <UIRecording/UIRAccessibilityElementRecord.h>
+#import <UIRecording/UIRAccessibilityProcess.h>
+#import <UIRecording/UIRTDrawFocusView.h>
+#import <UIRecording/UIRTDrawFocus.h>
+#import <UIRecording/ActionTextField.h>
+#import <UIRecording/UIRLocalRecorder.h>
+#import <UIRecording/UIRLocalRecorderController.h>
+#import <UIRecording/NSPrivateUIRecordingFrameworkClassForFindingBundle.h>

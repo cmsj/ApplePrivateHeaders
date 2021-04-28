@@ -1,0 +1,15 @@
+#import <iTunesLibrary/ITLibMediaEntity.h>
+#import <iTunesLibrary/ITLibPlaylist.h>
+#import <iTunesLibrary/ITLibArtist.h>
+#import <iTunesLibrary/AMPMPPlayerControllerNowPlayingTimeSnapshot.h>
+#import <iTunesLibrary/AMPMPPlayerControllerNowPlaying.h>
+#import <iTunesLibrary/AMPMPPlayerClientEventsXPCObject.h>
+#import <iTunesLibrary/AMPMPPlayerClient.h>
+#import <iTunesLibrary/ITLibPodcastFeed.h>
+#import <iTunesLibrary/ITLibAlbum.h>
+#import <iTunesLibrary/ITLibArtwork.h>
+#import <iTunesLibrary/ITLibMediaItemVideoInfo.h>
+#import <iTunesLibrary/ITLibrary.h>
+#import <iTunesLibrary/ITLibMediaItemData.h>
+#import <iTunesLibrary/ITLibMediaItem.h>
+#import <iTunesLibrary/PDFToRasterImageRef.h>

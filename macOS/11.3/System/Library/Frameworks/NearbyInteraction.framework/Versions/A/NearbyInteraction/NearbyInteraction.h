@@ -1,0 +1,13 @@
+#import <NearbyInteraction/NIPlatformInfo.h>
+#import <NearbyInteraction/NISession.h>
+#import <NearbyInteraction/NIDiscoveryToken.h>
+#import <NearbyInteraction/NIConfiguration.h>
+#import <NearbyInteraction/NINearbyPeerConfiguration.h>
+#import <NearbyInteraction/_NIWiFiRangingTestConfiguration.h>
+#import <NearbyInteraction/NINearbyObject.h>
+#import <NearbyInteraction/NIExportedObjectForwarder.h>
+#import <NearbyInteraction/NIHomeDeviceConfiguration.h>
+#import <NearbyInteraction/NIServerConnection.h>
+#import <NearbyInteraction/NICarKeyConfiguration.h>
+#import <NearbyInteraction/NIRegionPredicate.h>
+#import <NearbyInteraction/NILocalization.h>

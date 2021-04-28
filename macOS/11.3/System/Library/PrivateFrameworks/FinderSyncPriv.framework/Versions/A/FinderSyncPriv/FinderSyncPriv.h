@@ -1,0 +1,1 @@
+#import <FinderSyncPriv/FIFinderSyncExtensionHost.h>

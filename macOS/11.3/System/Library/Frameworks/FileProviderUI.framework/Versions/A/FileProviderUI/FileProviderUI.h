@@ -1,0 +1,11 @@
+#import <FileProviderUI/FPUIActionExtensionContainerViewController.h>
+#import <FileProviderUI/FPUIAction.h>
+#import <FileProviderUI/FPUIManager.h>
+#import <FileProviderUI/FPUIPlaceHolderViewController.h>
+#import <FileProviderUI/FPUIActionViewController.h>
+#import <FileProviderUI/FPUIActionController.h>
+#import <FileProviderUI/FPUIActionRemoteContext.h>
+#import <FileProviderUI/FPUILocalization.h>
+#import <FileProviderUI/FPUIActionRemoteViewController.h>
+#import <FileProviderUI/FPUIActionExtensionViewController.h>
+#import <FileProviderUI/FPUIActionExtensionContext.h>

@@ -1,0 +1,17 @@
+#import <InstallerPlugins/InstallerPane.h>
+#import <InstallerPlugins/InstallerSection.h>
+#import <InstallerPlugins/InstallerState.h>
+#import <InstallerPlugins/IFXLogDataSource.h>
+#import <InstallerPlugins/IFXLogWindowController.h>
+#import <InstallerPlugins/IFXFileListWindow.h>
+#import <InstallerPlugins/IFXDebugMenu.h>
+#import <InstallerPlugins/CellImageLayer.h>
+#import <InstallerPlugins/IFXDiskButtonCell.h>
+#import <InstallerPlugins/IFXDiskMatrixController.h>
+#import <InstallerPlugins/IFXDiskSelectView.h>
+#import <InstallerPlugins/IAAutoSizedTextView.h>
+#import <InstallerPlugins/IATextView.h>
+#import <InstallerPlugins/IFXBackgroundImageView.h>
+#import <InstallerPlugins/IFXOpaqueContentView.h>
+#import <InstallerPlugins/IFXDocumentTools.h>
+#import <InstallerPlugins/_IFXAttributedStringWebResourceLoadDelegate.h>

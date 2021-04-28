@@ -1,0 +1,9 @@
+#import <MiniSoftwareUpdate/MSUProductManager.h>
+#import <MiniSoftwareUpdate/MSUDataDownloader.h>
+#import <MiniSoftwareUpdate/MSUNSURLSessionDataDownloader.h>
+#import <MiniSoftwareUpdate/MSUNSURLConnectionDataDownloader.h>
+#import <MiniSoftwareUpdate/MSUContentLocatorPackageSource.h>
+#import <MiniSoftwareUpdate/MSUPackage.h>
+#import <MiniSoftwareUpdate/MSUPackageReference.h>
+#import <MiniSoftwareUpdate/MSUCatalog.h>
+#import <MiniSoftwareUpdate/MSUProduct.h>

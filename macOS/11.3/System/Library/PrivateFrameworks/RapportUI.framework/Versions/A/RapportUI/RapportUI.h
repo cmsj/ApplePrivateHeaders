@@ -1,0 +1,9 @@
+#import <RapportUI/RPDeviceUIEntry.h>
+#import <RapportUI/RPPairedDeviceTableCellView.h>
+#import <RapportUI/RPPairingManagerUIController.h>
+#import <RapportUI/RPPairingManagerWindowController.h>
+#import <RapportUI/RPPairingManagerViewController.h>
+#import <RapportUI/RPPairingManagerRemoveViewController.h>
+#import <RapportUI/RPPairingUIController.h>
+#import <RapportUI/RPPairingViewController.h>
+#import <RapportUI/RPPINEntryView.h>

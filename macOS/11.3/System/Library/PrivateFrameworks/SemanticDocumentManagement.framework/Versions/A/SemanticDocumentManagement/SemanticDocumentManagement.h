@@ -1,0 +1,14 @@
+#import <SemanticDocumentManagement/HelpTokenizer.h>
+#import <SemanticDocumentManagement/_LSMDocMetaDBConnection.h>
+#import <SemanticDocumentManagement/LSMDocMetadata.h>
+#import <SemanticDocumentManagement/SDMQuery.h>
+#import <SemanticDocumentManagement/HelpSDMModel.h>
+#import <SemanticDocumentManagement/SDMQueryResult.h>
+#import <SemanticDocumentManagement/HelpSDMIndex.h>
+#import <SemanticDocumentManagement/HelpSDMIndexBuilder.h>
+#import <SemanticDocumentManagement/HelpSDMIndexFile.h>
+#import <SemanticDocumentManagement/HelpTokenizerNonRomanNgrams.h>
+#import <SemanticDocumentManagement/HelpTokenizerRomanBasedNgrams.h>
+#import <SemanticDocumentManagement/HelpTokenizerFrench.h>
+#import <SemanticDocumentManagement/HelpTokenizerItalian.h>
+#import <SemanticDocumentManagement/DebugPreferences.h>

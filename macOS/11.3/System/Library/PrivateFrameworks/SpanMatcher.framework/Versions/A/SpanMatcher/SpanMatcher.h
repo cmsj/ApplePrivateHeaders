@@ -1,0 +1,12 @@
+#import <SpanMatcher/CTNFA.h>
+#import <SpanMatcher/CTIntTuple.h>
+#import <SpanMatcher/NSMetaphone.h>
+#import <SpanMatcher/CTFuzzyIndex.h>
+#import <SpanMatcher/NSSpanMatch.h>
+#import <SpanMatcher/CTDFAState.h>
+#import <SpanMatcher/NSSpanMatcher.h>
+#import <SpanMatcher/PCTDFA.h>
+#import <SpanMatcher/CTDFA.h>
+#import <SpanMatcher/TinyCDB.h>
+#import <SpanMatcher/CTFuzzyMatch.h>
+#import <SpanMatcher/CTNFAState.h>

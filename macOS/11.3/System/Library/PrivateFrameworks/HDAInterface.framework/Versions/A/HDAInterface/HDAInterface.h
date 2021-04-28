@@ -1,0 +1,9 @@
+#import <HDAInterface/HDAAudioEngineUserClient.h>
+#import <HDAInterface/HDADSPInterface.h>
+#import <HDAInterface/HDAControllerInterface.h>
+#import <HDAInterface/HDAUserClient.h>
+#import <HDAInterface/HDABuiltinCodecInterface.h>
+#import <HDAInterface/HDADSPUserClient.h>
+#import <HDAInterface/HDAInterface.h>
+#import <HDAInterface/HDAMikeyInterface.h>
+#import <HDAInterface/IOHDAudioCodecDeviceUserClient.h>

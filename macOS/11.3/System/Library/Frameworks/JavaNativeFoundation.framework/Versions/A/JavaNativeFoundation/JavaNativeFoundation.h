@@ -1,0 +1,15 @@
+#import <JavaNativeFoundation/JNFException.h>
+#import <JavaNativeFoundation/JNFTypeCoercer.h>
+#import <JavaNativeFoundation/JNFInternalJavaClassToCoersionHolder.h>
+#import <JavaNativeFoundation/JNFStringCoercion.h>
+#import <JavaNativeFoundation/JNFNumberCoercion.h>
+#import <JavaNativeFoundation/JNFDateCoercion.h>
+#import <JavaNativeFoundation/JNFMapCoercion.h>
+#import <JavaNativeFoundation/JNFListCoercion.h>
+#import <JavaNativeFoundation/JNFSetCoercion.h>
+#import <JavaNativeFoundation/JNFDefaultCoercions.h>
+#import <JavaNativeFoundation/JNFJObjectWrapper.h>
+#import <JavaNativeFoundation/JNFWeakJObjectWrapper.h>
+#import <JavaNativeFoundation/JNFRunLoop.h>
+#import <JavaNativeFoundation/JNFRunnableWrapper.h>
+#import <JavaNativeFoundation/JNFRunnable.h>

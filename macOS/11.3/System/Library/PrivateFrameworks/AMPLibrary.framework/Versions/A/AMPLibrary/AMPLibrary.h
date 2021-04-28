@@ -1,0 +1,16 @@
+#import <AMPLibrary/AMPArtworkEventsXPCObject.h>
+#import <AMPLibrary/AMPArtworkClient.h>
+#import <AMPLibrary/AMPSetArtworkResponse.h>
+#import <AMPLibrary/AMPRemoveArtworkRequest.h>
+#import <AMPLibrary/AMPLegacyITunesPrefs.h>
+#import <AMPLibrary/AMPArtworkEventInfo.h>
+#import <AMPLibrary/AMPLibraryAddToCloudMusicLibraryRequest.h>
+#import <AMPLibrary/AMPArtworkRequest.h>
+#import <AMPLibrary/AMPArtworkRequestResponse.h>
+#import <AMPLibrary/AMPArtworkSourceInfo.h>
+#import <AMPLibrary/AMPLibraryClientEventsXPCObject.h>
+#import <AMPLibrary/AMPLClient.h>
+#import <AMPLibrary/AMPLFrameworkClient.h>
+#import <AMPLibrary/AMPLMediaAppClient.h>
+#import <AMPLibrary/AMPLSharingClient.h>
+#import <AMPLibrary/PDFToRasterImageRef.h>

@@ -1,0 +1,17 @@
+#import <FindMyDevice/FMDActivationLockInfo.h>
+#import <FindMyDevice/FMDEraseOptions.h>
+#import <FindMyDevice/FMNSXPCConnectionConfiguration.h>
+#import <FindMyDevice/FMDFMMManager.h>
+#import <FindMyDevice/FMDIdentitySigningRequest.h>
+#import <FindMyDevice/FMDAccessoryIdentifier.h>
+#import <FindMyDevice/FMDAudioAccessoryInfo.h>
+#import <FindMyDevice/LocalizedUnregisterErrorKey.h>
+#import <FindMyDevice/FMNSXPCConnectionCache.h>
+#import <FindMyDevice/FMDActivationLockContext.h>
+#import <FindMyDevice/FMNSXPCCachedConnection.h>
+#import <FindMyDevice/FMDBAAAttestation.h>
+#import <FindMyDevice/FMDFMMAccountInfo.h>
+#import <FindMyDevice/FMDVolatileMetaDataRecord.h>
+#import <FindMyDevice/FMNSXPCConnection.h>
+#import <FindMyDevice/FMDDeviceIdentityFactory.h>
+#import <FindMyDevice/FMDEraseProxy.h>

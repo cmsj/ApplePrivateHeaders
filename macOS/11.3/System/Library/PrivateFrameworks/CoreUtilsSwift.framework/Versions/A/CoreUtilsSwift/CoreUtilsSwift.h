@@ -1,0 +1,13 @@
+#import <CoreUtilsSwift/CoreUtilsSwift.CLIProcessor.h>
+#import <CoreUtilsSwift/CoreUtilsSwift.CLICommand.h>
+#import <CoreUtilsSwift/CoreUtilsSwift.CLIContext.h>
+#import <CoreUtilsSwift/CoreUtilsSwift.CLIOption.h>
+#import <CoreUtilsSwift/CoreUtilsSwift.CLIHelpCommand.h>
+#import <CoreUtilsSwift/CoreUtilsSwift.CLIHelpOption.h>
+#import <CoreUtilsSwift/CoreUtilsSwift.CLIVersionCommand.h>
+#import <CoreUtilsSwift/CoreUtilsSwift.CLIVersionOption.h>
+#import <CoreUtilsSwift/CoreUtilsSwift.BaseError.h>
+#import <CoreUtilsSwift/CoreUtilsSwift.OSUnfairLock.h>
+#import <CoreUtilsSwift/CoreUtilsSwift.PThread.h>
+#import <CoreUtilsSwift/_TtCC14CoreUtilsSwift7PThreadP33_4870E8145C1F14329A4AC87EA7D8137414ClosureWrapper.h>
+#import <CoreUtilsSwift/CoreUtilsSwift.PThreadMutex.h>

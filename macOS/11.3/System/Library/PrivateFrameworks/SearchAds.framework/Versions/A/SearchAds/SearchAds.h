@@ -1,0 +1,17 @@
+#import <SearchAds/ADAppAdvertisement.h>
+#import <SearchAds/ADMetricManager.h>
+#import <SearchAds/ADUnfairLock.h>
+#import <SearchAds/ADSearchObject.h>
+#import <SearchAds/ADLocationManager.h>
+#import <SearchAds/ADLandingCapService.h>
+#import <SearchAds/ADParameterFactory.h>
+#import <SearchAds/ADDESRecordsManager.h>
+#import <SearchAds/ADSearchAdsSettings.h>
+#import <SearchAds/ADSearchSession.h>
+#import <SearchAds/ADDataObject.h>
+#import <SearchAds/ADCapService.h>
+#import <SearchAds/ADAppRepresentation.h>
+#import <SearchAds/ADInstallAttributionData.h>
+#import <SearchAds/ADResponseData.h>
+#import <SearchAds/ADDaemonMetricsHelper.h>
+#import <SearchAds/ADSearchCriteria.h>

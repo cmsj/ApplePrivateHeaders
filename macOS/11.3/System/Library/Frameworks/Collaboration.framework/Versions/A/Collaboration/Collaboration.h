@@ -1,0 +1,10 @@
+#import <Collaboration/CBIdentityAuthority.h>
+#import <Collaboration/CBIdentityPicker.h>
+#import <Collaboration/CBIdentity.h>
+#import <Collaboration/CBUserIdentity.h>
+#import <Collaboration/CBGroupIdentity.h>
+#import <Collaboration/SidebarDataSource.h>
+#import <Collaboration/IdentityPickerInternal.h>
+#import <Collaboration/ListObject.h>
+#import <Collaboration/IdentityDataSource.h>
+#import <Collaboration/CBIdentityQuery.h>

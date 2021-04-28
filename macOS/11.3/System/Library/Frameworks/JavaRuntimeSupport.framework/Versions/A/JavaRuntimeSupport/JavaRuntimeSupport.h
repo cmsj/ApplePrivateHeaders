@@ -1,0 +1,10 @@
+#import <JavaRuntimeSupport/JRSDrag.h>
+#import <JavaRuntimeSupport/JRSAppKitAWT.h>
+#import <JavaRuntimeSupport/JRSMenu.h>
+#import <JavaRuntimeSupport/_JRSUIRenderer.h>
+#import <JavaRuntimeSupport/JRSInputMethodController.h>
+#import <JavaRuntimeSupport/MIGThread.h>
+#import <JavaRuntimeSupport/JRSRenderServer.h>
+#import <JavaRuntimeSupport/JRSSymbolicator.h>
+#import <JavaRuntimeSupport/JRSSymbolicatorImpl.h>
+#import <JavaRuntimeSupport/JRSSecurity.h>

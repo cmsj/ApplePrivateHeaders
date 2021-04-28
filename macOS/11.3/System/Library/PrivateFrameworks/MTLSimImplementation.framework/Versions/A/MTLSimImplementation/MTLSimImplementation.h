@@ -1,0 +1,10 @@
+#import <MTLSimImplementation/MTLDeserializerEventDecoder.h>
+#import <MTLSimImplementation/MTLByteIterator.h>
+#import <MTLSimImplementation/_MTLDeserializerHashObjectDelegate.h>
+#import <MTLSimImplementation/_MTLDeserializerObjectMapObjectDelegate.h>
+#import <MTLSimImplementation/_MTLDeserializer.h>
+#import <MTLSimImplementation/MTLDeserializerBlitDecoder.h>
+#import <MTLSimImplementation/MTLDeserializerComputeDecoder.h>
+#import <MTLSimImplementation/MTLDeserializerRenderDecoder.h>
+#import <MTLSimImplementation/MTLSimReplyAllocator.h>
+#import <MTLSimImplementation/DeserializationContext.h>

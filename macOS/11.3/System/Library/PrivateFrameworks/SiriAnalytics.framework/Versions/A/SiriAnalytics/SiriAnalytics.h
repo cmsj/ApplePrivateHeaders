@@ -1,0 +1,11 @@
+#import <SiriAnalytics/AssistantSiriAnalyticsService.h>
+#import <SiriAnalytics/SiriAnalyticsXPCConnection.h>
+#import <SiriAnalytics/SiriAnalyticsXPCMessageStream.h>
+#import <SiriAnalytics/SiriAnalyticsXPCMessageEnvelope.h>
+#import <SiriAnalytics/SiriAnalyticsFBFMessageStorageProvider.h>
+#import <SiriAnalytics/SiriAnalyticsTimePeriodBuffer.h>
+#import <SiriAnalytics/SiriAnalyticsMessageObserverHandle.h>
+#import <SiriAnalytics/SiriAnalyticsXPCServiceListener.h>
+#import <SiriAnalytics/SiriAnalyticsMessageObserverStream.h>
+#import <SiriAnalytics/SiriAnalyticsTimeStamp.h>
+#import <SiriAnalytics/AssistantSiriAnalytics.h>

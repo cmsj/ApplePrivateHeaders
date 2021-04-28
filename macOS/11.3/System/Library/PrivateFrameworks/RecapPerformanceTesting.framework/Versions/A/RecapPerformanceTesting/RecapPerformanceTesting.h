@@ -1,0 +1,16 @@
+#import <RecapPerformanceTesting/RPTResizeTestParameters.h>
+#import <RecapPerformanceTesting/RPTResizeInteraction.h>
+#import <RecapPerformanceTesting/RPTDirectionalSwipeTestParameters.h>
+#import <RecapPerformanceTesting/RPTDockGestureInteraction.h>
+#import <RecapPerformanceTesting/RPTDefaultPointerAndFingerInteroppingComposer.h>
+#import <RecapPerformanceTesting/RPTSettings.h>
+#import <RecapPerformanceTesting/RPTActivationTestParameters.h>
+#import <RecapPerformanceTesting/RPTInteractionOptions.h>
+#import <RecapPerformanceTesting/RPTCoordinateSpaceConverter.h>
+#import <RecapPerformanceTesting/RPTNullCoordinateSpaceConverter.h>
+#import <RecapPerformanceTesting/RPTGroupScrollTestParameters.h>
+#import <RecapPerformanceTesting/RPTOscillationScrollTestParameters.h>
+#import <RecapPerformanceTesting/RPTScrollViewTestParameters.h>
+#import <RecapPerformanceTesting/RPTDragInteraction.h>
+#import <RecapPerformanceTesting/RPTPagingScrollTestParameters.h>
+#import <RecapPerformanceTesting/RPTTestRunner.h>

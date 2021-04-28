@@ -1,0 +1,9 @@
+#import <SystemExtensions/OSSystemExtensionInfo.h>
+#import <SystemExtensions/OSSystemExtensionClient.h>
+#import <SystemExtensions/OSSystemExtensionPointListener.h>
+#import <SystemExtensions/OSSystemExtensionMDMClient.h>
+#import <SystemExtensions/OSSystemExtensionProperties.h>
+#import <SystemExtensions/OSSystemExtensionRequest.h>
+#import <SystemExtensions/OSSystemExtensionActivationRequest.h>
+#import <SystemExtensions/OSSystemExtensionDeactivationRequest.h>
+#import <SystemExtensions/OSSystemExtensionManager.h>

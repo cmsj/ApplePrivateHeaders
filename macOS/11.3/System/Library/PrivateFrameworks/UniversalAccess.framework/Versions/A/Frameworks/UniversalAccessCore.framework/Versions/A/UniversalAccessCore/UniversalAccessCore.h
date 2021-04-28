@@ -1,0 +1,14 @@
+#import <UniversalAccessCore/UASwitchUtilities.h>
+#import <UniversalAccessCore/UAZoomSettings.h>
+#import <UniversalAccessCore/UASystemSettings.h>
+#import <UniversalAccessCore/UAShortcutManager.h>
+#import <UniversalAccessCore/UAShortcutFeature.h>
+#import <UniversalAccessCore/UAShortcutCategory.h>
+#import <UniversalAccessCore/UAShortcutMotionTrackingManager.h>
+#import <UniversalAccessCore/UALoginWindowFeature.h>
+#import <UniversalAccessCore/UALoginWindowFeatureManager.h>
+#import <UniversalAccessCore/UASettings.h>
+#import <UniversalAccessCore/UASpeechSettings.h>
+#import <UniversalAccessCore/UAUserSwitch.h>
+#import <UniversalAccessCore/UAHIDUserSwitch.h>
+#import <UniversalAccessCore/UAExpressionUserSwitch.h>

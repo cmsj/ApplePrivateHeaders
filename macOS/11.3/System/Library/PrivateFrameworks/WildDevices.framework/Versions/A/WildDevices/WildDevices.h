@@ -1,0 +1,11 @@
+#import <WildDevices/AWDPtyMaster.h>
+#import <WildDevices/CHDChannelPlugin.h>
+#import <WildDevices/AWDHippoProcessor.h>
+#import <WildDevices/CHDBaseChannel.h>
+#import <WildDevices/AWDHippoLink.h>
+#import <WildDevices/AWDHippoChannel.h>
+#import <WildDevices/AWDWatershedChan0.h>
+#import <WildDevices/CHDBaseDevice.h>
+#import <WildDevices/AWDHippoSerial.h>
+#import <WildDevices/AWDWatershedProcessor.h>
+#import <WildDevices/AWDSerial.h>

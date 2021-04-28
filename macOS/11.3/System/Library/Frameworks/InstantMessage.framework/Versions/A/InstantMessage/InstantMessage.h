@@ -1,0 +1,15 @@
+#import <InstantMessage/IMAuxVideoProvider.h>
+#import <InstantMessage/IMSharedPixelBufferPool.h>
+#import <InstantMessage/_IMVideoDataSource.h>
+#import <InstantMessage/IMAVManagerImpl.h>
+#import <InstantMessage/IMAVManager.h>
+#import <InstantMessage/IMAVControlBarImpl.h>
+#import <InstantMessage/IMAVControlBar.h>
+#import <InstantMessage/_IMAVControlAuxiliary.h>
+#import <InstantMessage/_IMAVButtonAuxiliary.h>
+#import <InstantMessage/_IMAVSliderAuxiliary.h>
+#import <InstantMessage/IMAVControl.h>
+#import <InstantMessage/IMAVButton.h>
+#import <InstantMessage/IMAVSlider.h>
+#import <InstantMessage/IMService.h>
+#import <InstantMessage/iChatTheaterXPC.h>

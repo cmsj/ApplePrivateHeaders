@@ -1,0 +1,13 @@
+#import <Lookup/LULookupDefinitionModule.h>
+#import <Lookup/LUTextAccessor.h>
+#import <Lookup/LULookupRemoteViewController.h>
+#import <Lookup/LUWebFrameViewTextAccessor.h>
+#import <Lookup/LUTextInputClientTextAccessor.h>
+#import <Lookup/LUTextInputTextAccessor.h>
+#import <Lookup/LUAccessibilityTextAccessor.h>
+#import <Lookup/LUSearchTermIndicator.h>
+#import <Lookup/LUPresenter.h>
+#import <Lookup/LUPresenterAnimationController.h>
+#import <Lookup/LUExtractor.h>
+#import <Lookup/LULogging.h>
+#import <Lookup/LUTSMDocumentTextAccessor.h>

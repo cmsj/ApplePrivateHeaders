@@ -1,0 +1,10 @@
+#import <ControlCenter/ControlCenter.AirPlayPreferences.h>
+#import <ControlCenter/ControlCenter.ClockPreferences.h>
+#import <ControlCenter/ControlCenter.UnfairLock.h>
+#import <ControlCenter/ControlCenter.UnfairRecursiveLock.h>
+#import <ControlCenter/ControlCenter.BatteryPreferences.h>
+#import <ControlCenter/ControlCenter.ControlCenterModulePreferencesController.h>
+#import <ControlCenter/_TtCV13ControlCenter11PreferencesP33_4594EF6CB5B512FEE8A37227EC8D52EB8KVOProxy.h>
+#import <ControlCenter/ControlCenter.PreferencesController.h>
+#import <ControlCenter/ControlCenter.UserSwitcherHostPreferences.h>
+#import <ControlCenter/ControlCenter.UserSwitcherUserPreferences.h>

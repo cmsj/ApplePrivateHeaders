@@ -1,0 +1,15 @@
+#import <MetalSerializer/MTLDeserializerBlitDecoder.h>
+#import <MetalSerializer/DefaultObjectRefAllocator.h>
+#import <MetalSerializer/MTLSerializer.h>
+#import <MetalSerializer/MTLDeserializerEventDecoder.h>
+#import <MetalSerializer/MTLDeserializerRenderDecoder.h>
+#import <MetalSerializer/MTLSerializerParallelRenderCommandEncoder.h>
+#import <MetalSerializer/_MTLDeserializerHashObjectDelegate.h>
+#import <MetalSerializer/_MTLDeserializerObjectMapObjectDelegate.h>
+#import <MetalSerializer/_MTLDeserializer.h>
+#import <MetalSerializer/MTLSerializerRenderCommandEncoder.h>
+#import <MetalSerializer/MTLDeserializerComputeDecoder.h>
+#import <MetalSerializer/MTLSerializerBlitCommandEncoder.h>
+#import <MetalSerializer/MTLSerializerCommandEncoder.h>
+#import <MetalSerializer/MTLByteIterator.h>
+#import <MetalSerializer/MTLSerializerComputeCommandEncoder.h>

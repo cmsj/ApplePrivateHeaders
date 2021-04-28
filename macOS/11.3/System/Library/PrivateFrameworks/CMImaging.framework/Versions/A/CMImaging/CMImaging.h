@@ -1,0 +1,14 @@
+#import <CMImaging/FigMetalExecutionStatus.h>
+#import <CMImaging/FigMetalContext.h>
+#import <CMImaging/InterceptConfig.h>
+#import <CMImaging/CMMTLCommandQueue.h>
+#import <CMImaging/CMMTLCommandBuffer.h>
+#import <CMImaging/FigMetalAllocatorMetadata.h>
+#import <CMImaging/FigMetalUtils.h>
+#import <CMImaging/FigMetalAllocatorDescriptor.h>
+#import <CMImaging/FigMetalTextureDescriptor.h>
+#import <CMImaging/FigMetalNoAliasingAllocator.h>
+#import <CMImaging/FigMetalBufferAllocator.h>
+#import <CMImaging/FigMetalHeapAllocator.h>
+#import <CMImaging/FigMetalAllocator.h>
+#import <CMImaging/FigMetalTextureStub.h>

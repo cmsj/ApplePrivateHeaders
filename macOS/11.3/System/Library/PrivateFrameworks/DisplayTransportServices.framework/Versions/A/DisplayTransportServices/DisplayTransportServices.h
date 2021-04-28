@@ -1,0 +1,11 @@
+#import <DisplayTransportServices/DTSDPDeviceProxy.h>
+#import <DisplayTransportServices/DTSDPDeviceDPCDInfo.h>
+#import <DisplayTransportServices/DTSDPDeviceDescription.h>
+#import <DisplayTransportServices/DTSDisplayPortDeviceAnalyticsData.h>
+#import <DisplayTransportServices/DTSIOKitLib.h>
+#import <DisplayTransportServices/DTSIOKitLibImpl.h>
+#import <DisplayTransportServices/DTSIOServiceImpl.h>
+#import <DisplayTransportServices/DTSIOConnectImpl.h>
+#import <DisplayTransportServices/DTSIOPMAssertionImpl.h>
+#import <DisplayTransportServices/DTSDisplayPortDeviceManager.h>
+#import <DisplayTransportServices/DTSAgentConnection.h>
